@@ -1,0 +1,1 @@
+export const apiUrl = 'https://dummyjson.com/products?limit=10&skip=0';
